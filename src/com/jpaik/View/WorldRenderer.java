@@ -88,7 +88,7 @@ public class WorldRenderer {
 		bulletTexture = new Texture("data/bullet.png");
 		bulletTexture.setFilter(TextureFilter.Linear, TextureFilter.Linear);
 		
-		Boss = new Texture("data/bday/eileenboss.png"); //IF BIRTHDAY TIME
+		Boss = new Texture("data/bday/boss.png"); //IF BIRTHDAY TIME
 	    //Boss = new Texture("data/followerfour.png");
 		Boss.setFilter(TextureFilter.Linear, TextureFilter.Linear);
 				
