@@ -6,9 +6,9 @@ import com.jpaik.Screens.SplashScreen;
 
 public class TestGame extends Game {
 										//Open.CloseBeta.Alpha.PreAlpha
-	public static final String VERSION = "9.1.9.6 Birthday";
-	public static final String LOG = "SpaceBall Madness";
-	public static final boolean DEBUG = false;
+	public static final String VERSION = "9.1.9.6 Birthday"; //Beta version was 0.7.4.7
+	public static final String LOG = "SpaceBall Madness"; //If you open it with command prompt or something, you can see the logs it prints out.
+	public static final boolean DEBUG = false; //Debug squares
 	//FPSLogger log;
 	
 	@Override
